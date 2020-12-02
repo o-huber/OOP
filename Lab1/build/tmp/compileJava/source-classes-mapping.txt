@@ -1,0 +1,18 @@
+view/UserInterface.java
+ view.UserInterface
+model/Chocolate.java
+ model.Chocolate
+view/Main.java
+ view.Main
+model/ItemType.java
+ model.ItemType
+model/Item.java
+ model.Item
+model/Wafer.java
+ model.Wafer
+model/Gift.java
+ model.Gift
+model/Cookie.java
+ model.Cookie
+model/Sweet.java
+ model.Sweet
